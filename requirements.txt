@@ -18,9 +18,7 @@ python-multipart
 a2wsgi
 python-dotenv
 ddgs
-cloudscraper
 numpy
 PyYAML
-prompt_optimizer
 websocket-client
 pystray
